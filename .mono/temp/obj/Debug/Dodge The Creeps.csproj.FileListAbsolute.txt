@@ -1,0 +1,10 @@
+C:\DodgeTheCreeps\.mono\temp\bin\Debug\Dodge The Creeps.dll
+C:\DodgeTheCreeps\.mono\temp\bin\Debug\Dodge The Creeps.pdb
+C:\DodgeTheCreeps\.mono\temp\obj\Debug\Dodge The Creeps.csprojAssemblyReference.cache
+C:\DodgeTheCreeps\.mono\temp\obj\Debug\Dodge The Creeps.dll
+C:\DodgeTheCreeps\.mono\temp\obj\Debug\Dodge The Creeps.pdb
+C:\GameDevRepos\DodgeTheCreeps\.mono\temp\bin\Debug\Dodge The Creeps.dll
+C:\GameDevRepos\DodgeTheCreeps\.mono\temp\bin\Debug\Dodge The Creeps.pdb
+C:\GameDevRepos\DodgeTheCreeps\.mono\temp\obj\Debug\Dodge The Creeps.csprojAssemblyReference.cache
+C:\GameDevRepos\DodgeTheCreeps\.mono\temp\obj\Debug\Dodge The Creeps.dll
+C:\GameDevRepos\DodgeTheCreeps\.mono\temp\obj\Debug\Dodge The Creeps.pdb

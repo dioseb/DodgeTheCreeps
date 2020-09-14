@@ -1,0 +1,5 @@
+C:\DodgeTheCreeps\.mono\temp\bin\ExportDebug\Dodge The Creeps.dll
+C:\DodgeTheCreeps\.mono\temp\bin\ExportDebug\Dodge The Creeps.pdb
+C:\DodgeTheCreeps\.mono\temp\obj\ExportDebug\Dodge The Creeps.csprojAssemblyReference.cache
+C:\DodgeTheCreeps\.mono\temp\obj\ExportDebug\Dodge The Creeps.dll
+C:\DodgeTheCreeps\.mono\temp\obj\ExportDebug\Dodge The Creeps.pdb
